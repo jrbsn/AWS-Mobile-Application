@@ -10,3 +10,5 @@ Brief Explanation of Backend Services
 3. AWS Lambda: Takes the API call and translates what is needed into SQL code to either add or retrieve data from the PostreSQL db running on RDS
 4. AWS Secrets Manager: Used in conjuction with AWS Lambda to avoid hardcoding db credentials in the function
 5. Amazon RDS: PostgreSQL was the chosen relational database
+
+// the lambda code used will be added in later
